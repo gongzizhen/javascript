@@ -9,4 +9,4 @@ let addSomeNumber = function(num) {
 addSomeNumber = function(num) {
     return num + 200;
 };
-console.log(addSomeNumber(100));
+console.log(addSomeNumber(100)); // 300
